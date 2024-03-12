@@ -1,0 +1,31 @@
+/* Insert any CSS code below here */
+
+body{
+  background-color:#fbc983;
+}
+h2{
+  font-size: 24px;
+  color:#b2831f;
+  font-family:cursive;
+}
+h4{
+  font-size: 18px;
+  color:#6e5112;
+  font-family:cursive;
+}
+h1{
+  font-size: 30px;
+  color:#b2831f;
+  font-family:cursive;
+  }
+li{
+  font-size: 20px;
+  color:#87651d;
+  font-family:cursive;
+}
+
+p{
+  font-size:18px;
+  color:#b2831f;
+  font-family:cursive;
+}
